@@ -1,0 +1,11 @@
+D:\Lap Trinh C#\ThucHanh2\Shopping Online\Shopping Online\bin\Debug\Shopping Online.exe.config
+D:\Lap Trinh C#\ThucHanh2\Shopping Online\Shopping Online\bin\Debug\Shopping Online.exe
+D:\Lap Trinh C#\ThucHanh2\Shopping Online\Shopping Online\bin\Debug\Shopping Online.pdb
+D:\Lap Trinh C#\ThucHanh2\Shopping Online\Shopping Online\obj\Debug\Shopping Online.csproj.AssemblyReference.cache
+D:\Lap Trinh C#\ThucHanh2\Shopping Online\Shopping Online\obj\Debug\Shopping Online.csproj.SuggestedBindingRedirects.cache
+D:\Lap Trinh C#\ThucHanh2\Shopping Online\Shopping Online\obj\Debug\Shopping_Online.Form1.resources
+D:\Lap Trinh C#\ThucHanh2\Shopping Online\Shopping Online\obj\Debug\Shopping_Online.Properties.Resources.resources
+D:\Lap Trinh C#\ThucHanh2\Shopping Online\Shopping Online\obj\Debug\Shopping Online.csproj.GenerateResource.cache
+D:\Lap Trinh C#\ThucHanh2\Shopping Online\Shopping Online\obj\Debug\Shopping Online.csproj.CoreCompileInputs.cache
+D:\Lap Trinh C#\ThucHanh2\Shopping Online\Shopping Online\obj\Debug\Shopping Online.exe
+D:\Lap Trinh C#\ThucHanh2\Shopping Online\Shopping Online\obj\Debug\Shopping Online.pdb
